@@ -1,2 +1,4 @@
 # Chasestombaugh.github.io
-This is the README.md file for the repository of the "4.3 Create your own Github Page!" assignment
+## Chase Stombaugh's Github page for CS-HU155
+This is my homepage for all things coding
+I'm currently enrolled in Boise State University as a Computer Science major and learning Java.
